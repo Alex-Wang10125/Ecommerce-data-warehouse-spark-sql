@@ -1,0 +1,159 @@
+product_id,product_category,product_model,product_name,product_price
+214,配件,Easton-Z5,头盔,704
+217,配件,Easton-Z5,头盔,164
+222,配件,Easton-Z5,头盔,75
+225,服装,Baseball Cap,帽子,809
+228,服装,Rawlings Long-Sleeve,棒球服,331
+231,服装,Rawlings Long-Sleeve,棒球服,300
+234,服装,Rawlings Long-Sleeve,棒球服,278
+237,服装,Rawlings Long-Sleeve,棒球服,192
+310,球,Rawlings-200,硬式棒球,804
+311,球,Rawlings-200,硬式棒球,154
+312,球,Rawlings-200,硬式棒球,742
+313,球,Rawlings-200,硬式棒球,808
+314,球,Rawlings-200,硬式棒球,963
+320,球,BA-150,硬式棒球,608
+321,球,BA-150,硬式棒球,139
+322,球,BA-150,硬式棒球,654
+323,球,BA-150,硬式棒球,482
+324,球,BA-150,硬式棒球,82
+325,球,BA-150,硬式棒球,80
+326,球,BA-150,硬式棒球,145
+327,球,BA-150,硬式棒球,273
+328,球,BA-150,硬式棒球,288
+329,球,BA-150,硬式棒球,567
+330,球,BA-150,硬式棒球,666
+331,球,BA-150,硬式棒球,77
+332,球,BA-150,硬式棒球,624
+333,球,BA-150,硬式棒球,253
+334,球,BA-150,硬式棒球,783
+335,球,BA-150,硬式棒球,715
+336,球,BA-150,硬式棒球,768
+337,球,BA-150,硬式棒球,608
+338,球,BA-150,硬式棒球,479
+339,球,BA-150,硬式棒球,275
+340,球,BA-150,硬式棒球,509
+341,球,BA-150,硬式棒球,653
+342,球,BA-150,硬式棒球,334
+343,球,BA-150,硬式棒球,878
+344,球,Rawlings-USSSA,软式棒球,940
+345,球,Rawlings-USSSA,软式棒球,56
+346,球,Rawlings-USSSA,软式棒球,827
+347,球,Rawlings-USSSA,软式棒球,875
+348,球,Rawlings-USSSA,软式棒球,213
+349,球,Rawlings-USSSA,软式棒球,764
+350,球,Rawlings-USSSA,软式棒球,482
+351,球,Rawlings-USSSA,软式棒球,398
+352,球,HotDot-AHD12CY,软式棒球,334
+353,球,HotDot-AHD12CY,软式棒球,209
+354,球,HotDot-AHD12CY,软式棒球,270
+355,球,HotDot-AHD12CY,软式棒球,831
+356,球,HotDot-AHD12CY,软式棒球,394
+357,球,HotDot-AHD12CY,软式棒球,154
+358,球,HotDot-AHD12CY,软式棒球,144
+359,球,HotDot-AHD12CY,软式棒球,439
+360,球,HotDot-AHD12CY,软式棒球,149
+361,球,HotDot-AHD12CY,软式棒球,417
+362,球,HotDot-AHD12CY,软式棒球,917
+363,球,HotDot-AHD12CY,软式棒球,402
+368,球,BA-180,硬式棒球,668
+369,球,BA-180,硬式棒球,320
+370,球,BA-180,硬式棒球,876
+371,球,BA-180,硬式棒球,94
+372,球,BA-180,硬式棒球,797
+373,球,BA-180,硬式棒球,520
+374,球,BA-180,硬式棒球,599
+375,球,BA-180,硬式棒球,177
+376,球,BA-180,硬式棒球,994
+377,球,BA-180,硬式棒球,437
+378,球,BA-180,硬式棒球,130
+379,球,BA-180,硬式棒球,615
+380,球,BA-180,硬式棒球,350
+381,球,BA-580,硬式棒球,899
+382,球,BA-580,硬式棒球,693
+383,球,BA-580,硬式棒球,683
+384,球,BA-580,硬式棒球,956
+385,球,BA-580,硬式棒球,932
+386,球,BA-580,硬式棒球,420
+387,球,BA-580,硬式棒球,641
+388,球,BA-580,硬式棒球,246
+389,球,BA-580,硬式棒球,771
+390,球,BA-580,硬式棒球,121
+463,服装,Bat Gloves,击打手套,96
+465,服装,Bat Gloves,击打手套,727
+467,服装,Bat Gloves,击打手套,283
+471,服装,Catcher's Gear,捕手护具,841
+472,服装,Catcher's Gear,捕手护具,346
+473,服装,Catcher's Gear,捕手护具,131
+474,服装,Leather Belt,皮带,925
+475,服装,Leather Belt,皮带,288
+476,服装,Leather Belt,皮带,937
+477,配件,Bat Pack,球棒与球棒袋,153
+478,配件,Marucci CAT Composite,球棒与球棒袋,439
+479,配件,Marucci CAT9,球棒与球棒袋,334
+480,配件,Rawlings Gold Glove-11.5,棒球手套,514
+481,服装,Baseball Socks,袜子,700
+482,服装,Baseball Socks,袜子,904
+483,配件,Batting Net,球网,423
+484,配件,Bases,垒垫,216
+485,配件,Bow Net,三角网架,429
+486,配件,Rawlings Big Hitter Batting Tee,打击T座,413
+487,配件,Rawlings-R500,装备包,264
+488,服装,Short-Sleeve Classic Jersey,棒球服,736
+489,服装,Short-Sleeve Classic Jersey,棒球服,323
+490,服装,Short-Sleeve Classic Jersey,棒球服,768
+491,服装,Short-Sleeve Classic Jersey,棒球服,749
+528,配件,Rawlings Heart of THE Hide-11.5,棒球手套,713
+529,配件,Wilson-A2000-12.5,棒球手套,123
+530,配件,Mizuno Franchise Series-12.5,棒球手套,673
+535,配件,Easton Small Batch-11.5,棒球手套,700
+536,配件,Rawlings Pro Preffered-13-FirstBaseMitt,棒球手套,225
+537,配件,Mizuno MVP-12,棒球手套,596
+538,配件,Mizuno Prospect GXC112-21.5,棒球手套,796
+539,配件,Adidas EQT-12.75,棒球手套,300
+540,配件,All-Star Pro CM3100SBT-33.5,棒球手套,217
+541,配件,Rawlings Pro Preferred PROSCM43C-34,棒球手套,523
+560,球,Dudley-SBC,垒球,438
+561,球,Dudley-Thunder-SY,垒球,326
+562,球,Dudley-Thunder-SY,垒球,997
+563,球,Dudley-Thunder-SY,垒球,705
+564,球,Dudley-Thunder-SY,垒球,754
+565,球,Dudley-SB,垒球,620
+566,球,Dudley-SB,垒球,274
+567,球,Dudley-SB,垒球,751
+568,球,Dudley-SB,垒球,382
+569,球,Dudley-SB,垒球,913
+570,球,Dudley-SB,垒球,836
+571,球,Dudley-SB,垒球,844
+572,球,Dudley-SB,垒球,107
+573,球,Dudley-Thunder-SY,垒球,284
+574,球,Dudley-Thunder-SY,垒球,891
+575,球,Dudley-Thunder-SY,垒球,82
+576,球,Dudley-Thunder-SY,垒球,874
+577,球,Dudley-SBC,垒球,373
+578,球,Dudley-SBC,垒球,460
+579,球,Dudley-SBC,垒球,324
+580,球,Rawlings-100,硬式棒球,117
+581,球,Rawlings-100,硬式棒球,266
+582,球,Rawlings-100,硬式棒球,985
+583,球,Rawlings-100,硬式棒球,630
+584,球,KANSA-10,硬式棒球,947
+585,球,Dudley-SB,垒球,785
+586,球,Dudley-SB,垒球,372
+587,球,Rawlings-ASA-RIF,软式棒球,267
+588,球,Rawlings-ASA-RIF,软式棒球,721
+589,球,Rawlings-ASA-RIF,软式棒球,561
+590,球,Rawlings-ASA-RIF,软式棒球,455
+591,球,Rawlings-deBEER,软式棒球,955
+592,球,Rawlings-deBEER,软式棒球,986
+593,球,Rawlings-deBEER,软式棒球,708
+594,球,Rawlings-deBEER,软式棒球,519
+595,球,Rawlings-deBEER,软式棒球,196
+596,球,Rawlings-deBEER,软式棒球,321
+597,球,Rawlings-deBEER,软式棒球,192
+598,球,Rawlings-deBEER,软式棒球,302
+599,球,Rawlings-deBEER,软式棒球,812
+600,球,Rawlings-deBEER,软式棒球,624
+604,球,KANSA-10,硬式棒球,601
+605,球,KANSA-10,硬式棒球,319
+606,球,KANSA-10,硬式棒球,814
