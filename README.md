@@ -62,7 +62,7 @@
 
 ## 数仓架构
 
-![数仓架构示意图](/Workspace/images/etl_flow_2.png "在线数仓架构")
+![数仓架构示意图](/images/etl_flow_2.png "在线数仓架构")
 
 > **图片说明**：  
 > 1. ODS 层：将原始CSV上传到在线Volume（客户、产品、订单多文件）。  
@@ -95,7 +95,7 @@
 
 **结论**：在设计分区策略时，必须确保常用查询条件直接使用分区键，否则分区无法提升性能。
 
-![分区查询性能对比](/Workspace/images/partition_performance_1.png "查询运行结果")
+![分区查询性能对比](/images/partition_performance_1.png "查询运行结果")
 
 ---
 
@@ -112,7 +112,7 @@
 | 合并前 | 3 | 约 3 MB |
 | 合并后 | 1 | 约 3 MB（大小不变） |
 
-![文件优化结果](/Workspace/images/optimize_before_after.png "代码运行结果")
+![文件优化结果](/images/optimize_before_after.png "代码运行结果")
 
 ---
 
@@ -130,7 +130,7 @@
 >Delta 托管表享有 Unity Catalog 的元数据缓存、文件跳过等优化，且数据布局更优。<br>
 >生产环境下推荐使用 Delta 格式以获得 ACID 和性能双重收益。
 
-![存储格式性能对比](/Workspace/images/format_comparison_1.png "性能报告")
+![存储格式性能对比](/images/format_comparison_1.png "性能报告")
 
 ---
 
@@ -151,7 +151,7 @@
 
 **结论**：由于数据总量仅千万级，Spark AQE 可有效处理，手动打散未带来明显收益。
 
-![倾斜分布图](/Workspace/images/skew_distribution.png "倾斜分布图（柱状图）")
+![倾斜分布图](/images/skew_distribution.png "倾斜分布图（柱状图）")
 
 ---
 
@@ -169,8 +169,6 @@
    - 先运行 `01_setup_and_optimization.ipynb` 完成建表、分区、小文件合并。
    - 再运行 `02_advanced_tuning.ipynb` 进行高级调优（分区对比、格式转换、倾斜处理）。
 4. **Notebook 导出**：可从仓库下载 `.ipynb` 文件，导入 您的Databricks 工作区。
-
-仓库链接：[GitHub 占位符](https://github.com/yourusername/retail-warehouse-tuning)
 
 ---
 
